@@ -33,9 +33,9 @@ Wordpress, WooCommerce, PHP, MySQL, Javascript, jQuery, Ajax, HTML5, CSS3, SASS,
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/ibnulhasan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ibnulhasan" height="30" width="auto" /></a>
-<a href="https://stackoverflow.com/users/ibnul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibnul-hasan" height="30" width="auto" /></a>
-<a href="https://www.upwork.com/freelancers/~01c0d51a3194de2650" target="blank"><img align="center" src="assets/Upwork-Symbol.png" width="auto" height="30" /></a>
+<a href="https://linkedin.com/in/ibnulhasan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ibnulhasan" height="40" width="auto" /></a>
+<a href="https://stackoverflow.com/users/ibnul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibnul-hasan" height="40" width="auto" /></a>
+<a href="https://www.upwork.com/freelancers/~01c0d51a3194de2650" target="blank"><img align="center" src="assets/Upwork-Symbol.png" width="auto" height="40" /></a>
 </p>
 
 :hearts: &emsp;I enjoy programming and learning new tools <br/>
