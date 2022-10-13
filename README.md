@@ -6,7 +6,7 @@ Have great experience in Wordpress, OOPHP, MySQL, Bootstrap, CSS3, SASS, Tailwin
 Also doing Masters in Software Engineering by research mode in Universiti Malaysia Terengganu, Malaysia.
 
 Please check my upwork profile @ 
-https://www.upwork.com/freelancers/~01c0d51a3194de2650
+<a href="https://www.upwork.com/freelancers/~01c0d51a3194de2650" target="blank"><img align="center" src="assets/Upwork-Symbol.png" width="auto" height="30" /></a>
 
 #### ++ MY EXPERTISE AREAS:
 - WordPress & WooCommerce Custom Theme and Plugin Development from scratch
