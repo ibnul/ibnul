@@ -5,7 +5,7 @@ Have great experience in Wordpress, OOPHP, MySQL, Bootstrap, CSS3, SASS, Tailwin
 
 Also doing Masters in Software Engineering by research mode in Universiti Malaysia Terengganu, Malaysia.
 
-Please check my upwork profile below 
+Please check my upwork profile @ 
 https://www.upwork.com/freelancers/~01c0d51a3194de2650
 
 #### ++ MY EXPERTISE AREAS:
