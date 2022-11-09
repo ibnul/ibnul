@@ -21,13 +21,13 @@ Please check my profile @
 - Woocommerce payment gateway, stripe, Printful integration
 
 #### ++ MY SKILLS:
-Wordpress, WooCommerce, PHP, MySQL, Javascript, jQuery, Ajax, HTML5, CSS3, SASS, TailwindCSS, Codeigniter, Bootstrap, Responsive design, Underscore, Understrap, Picostrap WP theme framework, Gutenberg.
+Wordpress, WooCommerce, PHP, MySQL, Javascript, jQuery, Ajax, HTML5, CSS3, SASS, TailwindCSS, Codeigniter, Bootstrap, Responsive design, Underscore, Understrap, Picostrap WP theme framework, Gutenberg, Postman
 
 #### ++ Love Programming and Learning new tools.
 
 ### Learning now
 <p align="left">
-<img align="center" src="assets/MODX_Logo.png" width="auto" height="40" />
+<img align="center" src="assets/Laravel_logo.png" width="auto" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/>
 
 </p>
