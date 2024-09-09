@@ -40,6 +40,8 @@ Wordpress, WooCommerce, PHP, MySQL, Javascript, jQuery, Ajax, HTML5, CSS3, SASS,
 <a href="https://stackoverflow.com/users/ibnul-hasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibnul-hasan" height="30" width="auto" /></a>
 <a href="https://www.upwork.com/freelancers/~01c0d51a3194de2650" target="_blank"><img align="center" src="assets/Upwork-Symbol.png" width="auto" height="30" /></a>
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ibnulhasan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/ibnulhasan?trk=profile-badge">MD IBNUL HASAN</a></div>
+              
 
 :hearts: &emsp;I enjoy programming and learning new tools <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
